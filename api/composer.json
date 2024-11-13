@@ -10,6 +10,7 @@
     "require": {
         "php": "^8.0",
         "fleetbase/core-api": "^1.5.20",
+        "fleetbase/customer-portal-api": "^0.0.5",
         "fleetbase/fleetops-api": "^0.5.14",
         "fleetbase/registry-bridge": "^0.0.18",
         "fleetbase/storefront-api": "^0.3.17",
